@@ -18,4 +18,4 @@ jobs:
         with:
           subscriptionId: 6a754488-9a44-4e5d-b9fa-b64057cd7bc1
           resourceGroupName: frontend
-          template: ./templates/staticwebapp.json
+          template: ./templates/templates.json
